@@ -1,6 +1,6 @@
 # Complete-Notes-for-Computer-Science-Self-Study
 
-April 5 - Tuples, Lists, Aliasing, Mutability, and Cloning (https://www.youtube.com/watch?v=RvRKT-jXvko&t=58s)
+# April 5 - Tuples, Lists, Aliasing, Mutability, and Cloning (https://www.youtube.com/watch?v=RvRKT-jXvko&t=58s)
 
 
 Compound Data Types
@@ -10,4 +10,9 @@ Tuples
 - similar to string; sequences of something
 - any data not just letters
 - immutable; once created you cannot modify
--   
+- **useful if you want to return two or more values from a function**
+
+List
+- unlike tuples, list are mutable objects
+- can still contain elements of any time
+- denoted using square brackets
