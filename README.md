@@ -16,3 +16,10 @@ List
 - unlike tuples, list are mutable objects
 - can still contain elements of any time
 - denoted using square brackets
+
+April 6 - 6. Recursion and Dictionaries (https://www.youtube.com/watch?v=WPSeyjX1-4s&t=23s)
+
+Recursion
+- a function calls itself in its body; this is fine as long as there is a base case 
+ to avoid infinite unwinding/calls
+- 
