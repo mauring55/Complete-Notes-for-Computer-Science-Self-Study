@@ -22,4 +22,10 @@ April 6 - 6. Recursion and Dictionaries (https://www.youtube.com/watch?v=WPSeyjX
 Recursion
 - a function calls itself in its body; this is fine as long as there is a base case 
  to avoid infinite unwinding/calls
-- 
+
+How to make a recursive function?
+1. Define a doable base case.
+2. Divide the bigger task into some sort of easy and manageable components that you can make a 
+recurssive statement out of.
+3. Make sure that the base case is achievable or you will run into infinite recursion.
+
